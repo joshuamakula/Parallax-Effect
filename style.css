@@ -10,6 +10,7 @@ header{
     position: relative;
     color: white;
     font-family: sans-serif ;
+    z-index: -1;
 }
 
 .intro-text{
@@ -47,7 +48,7 @@ header{
     right: 10%;
     height: 100px;
     position: absolute;
-}
+} 
 
 section{
     min-height: 100vh;
